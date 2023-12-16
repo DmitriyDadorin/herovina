@@ -1,0 +1,12 @@
+#root {
+  width: 100%;
+  height: 100vh;
+  padding: 2rem;
+  text-align: center;
+  background-color: #282c34;
+  color: #ffffff;
+}
+
+.read-the-docs {
+  color: #888;
+}
